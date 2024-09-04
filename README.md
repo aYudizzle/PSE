@@ -12,5 +12,7 @@ PenguinStorageExplorer is a cross-platform Storage Administration App, designed 
 
 * **Kotlin Multiplatform:** Share core logic and business rules across Android and Desktop.
 * **Compose Multiplatform:** Build a consistent and beautiful UI for both platforms.
+* **Koin:** Dependency Injection with Koin
+* **Ktor:** Ktor for Api Requests
 * **Android:** Target the Android platform with native performance.
 * **Desktop:** Target desktop platforms (Windows, macOS, Linux) with a native look and feel.
